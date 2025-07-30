@@ -1,0 +1,6 @@
+operation,operand_1,operand_2,result
+SUM,10,10,Operación inválida
+SUB,20,7,13.0
+MUL,3,4,12.0
+DIV,15,3,5.0
+POW,2,3,8.0
